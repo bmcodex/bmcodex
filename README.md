@@ -9,7 +9,7 @@
 I'm passionate about building **automotive software tools**, **automations**, and **diagnostic systems** focused on BMW vehicles.  
 Founder of **BMCODEX**, a Polish tech brand dedicated to professional BMW coding, ECU (Engine Control Unit) tuning, and intelligent diagnostic workflows.
 
-I design scripts, integrations, and helper applications that optimize the workflow of vehicle diagnostics, data logging, and ECU programming.  
+I design scripts, integrations, and helper applications that optimize the workflow of vehicle diagnostics, data logging, ECU and TCU programming.  
 My goal is to create an ecosystem of intelligent tools that bridge the gap between software engineering and real-world automotive technology.
 
 ---
@@ -66,7 +66,7 @@ My goal is to create an ecosystem of intelligent tools that bridge the gap betwe
 Tworzę oprogramowanie i automatyzacje wspierające diagnostykę i kodowanie samochodów BMW.  
 Marka **BMCODEX** to połączenie inżynierii, precyzji i pasji do nowoczesnych technologii motoryzacyjnych.
 
-Specjalizuję się w integracji narzędzi takich jak **Bootmod3**, **xHP**, **BimmerCode**, oraz w tworzeniu skryptów usprawniających pracę z ECU (Engine Control Unit) i DTC (Diagnostic Trouble Codes).
+Specjalizuję się w integracji narzędzi takich jak **Bootmod3**, **xHP**, **BimmerCode**, oraz w tworzeniu skryptów usprawniających pracę z ECU (Engine Control Unit) / TCU (Transmisson Control Unit) i DTC (Diagnostic Trouble Codes).
 
 ---
 
