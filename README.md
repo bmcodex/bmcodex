@@ -49,7 +49,7 @@ My goal is to create an ecosystem of intelligent tools that bridge the gap betwe
 🔗 **Website:** [bmcodex.pl](https://bmcodex.pl)  
 📸 **Instagram:** [@bmcodex](https://instagram.com/bmcodex)  
 💬 **Email:** kontakt@bmcode.pl  
-🧰 **Brand:** BMCODEX – Precision in Automotive Coding
+🧰 **Brand:** BMCODEX – Performance Without Limits
 
 ---
 
