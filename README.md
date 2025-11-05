@@ -44,6 +44,32 @@ My goal is to create an ecosystem of intelligent tools that bridge the gap betwe
 
 ---
 
+## ✨ Projects I’m Proud Of
+
+### 🛒 [BMCODEX Sklep](https://github.com/bmcodex/bmcodex-sklep)
+> **Online platform prototype** for BMCODEX products and tuning licenses.  
+> - Designed for integration with Bootmod3 and xHP license management  
+> - Built with modular architecture for scalability and automation  
+> - Backend-ready for CRM and partner network expansion  
+
+---
+
+### 📘 [MHD, xHP, Bootmod3 & BimmerCode Tutorial Pack](https://github.com/bmcodex/mhd-xhp-bm3-bimmercode-tut)
+> **Educational repository** with structured guides and tutorials for BMW enthusiasts.  
+> - Covers setup, coding, and flashing procedures  
+> - Ideal for newcomers to BMW tuning ecosystem  
+> - Created for consistent, professional standards in workshops  
+
+---
+
+### 📊 [BMW Log Viewer](https://github.com/bmcodex/bmw-log-viewer)
+> **Custom log analysis tool** for reading and interpreting DME/TCU (Engine/Transmission Control Unit) data.  
+> - Parses CSV and CAN-bus data  
+> - Visualizes boost, AFR, ignition, and torque data  
+> - Built for compatibility with Bootmod3 log format  
+
+---
+
 ### 🌍 Connect
 
 🔗 **Website:** [bmcodex.pl](https://bmcodex.pl)  
@@ -101,6 +127,31 @@ Specjalizuję się w integracji narzędzi takich jak **Bootmod3**, **xHP**, **Bi
 🌐 [bmcodex.pl](https://bmcodex.pl)  
 📧 kontakt@bmcodex.pl  
 📸 [Instagram – @bmcodex](https://instagram.com/bmcodex)  
+
+---
+## 🇵🇱 Projekty, z których jestem dumny
+
+### 🛒 [BMCODEX Sklep](https://github.com/bmcodex/bmcodex-sklep)
+> **Prototyp platformy online** dla produktów i licencji BMCODEX.  
+> - Integracja z systemami licencji Bootmod3 i xHP  
+> - Modularna architektura przygotowana pod automatyzację  
+> - Gotowy backend do rozbudowy sieci partnerskiej i CRM  
+
+---
+
+### 📘 [Pakiet tutoriali MHD, xHP, Bootmod3 i BimmerCode](https://github.com/bmcodex/mhd-xhp-bm3-bimmercode-tut)
+> **Repozytorium edukacyjne** z przewodnikami i tutorialami dla użytkowników BMW.  
+> - Omawia procesy kodowania, flashowania i konfiguracji  
+> - Przydatne dla początkujących i warsztatów partnerskich  
+> - Tworzy jednolity standard wiedzy w ramach BMCODEX  
+
+---
+
+### 📊 [BMW Log Viewer](https://github.com/bmcodex/bmw-log-viewer)
+> **Autorskie narzędzie do analizy logów DME/TCU (jednostki silnika i skrzyni biegów)**.  
+> - Odczytuje dane z plików CSV i magistrali CAN-bus  
+> - Wizualizuje przebiegi: boost, AFR, zapłon, moment obrotowy  
+> - Zgodne z formatem logów Bootmod3  
 
 ---
 
