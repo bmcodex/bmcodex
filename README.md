@@ -104,4 +104,4 @@ Specjalizuję się w integracji narzędzi takich jak **Bootmod3**, **xHP**, **Bi
 
 ---
 
-> 💬 *„Precision, logic, and a spark of innovation – that’s what drives every BMCODEX project.”*
+> 💬 *„Performance Without Limits”*
