@@ -131,13 +131,6 @@ Specjalizuję się w integracji narzędzi takich jak **Bootmod3**, **xHP**, **Bi
 
 ---
 
-### 📬 Kontakt
-
-🌐 [bmcodex.pl](https://bmcodex.pl)  
-📧 kontakt@bmcodex.pl  
-📸 [Instagram – @bmcodex](https://instagram.com/bmcodex)  
-
----
 ## 🇵🇱 Najnowsze repo
 
 ### 🛒 [BMCODEX Sklep](https://github.com/bmcodex/bmcodex-sklep)
@@ -170,6 +163,14 @@ Specjalizuję się w integracji narzędzi takich jak **Bootmod3**, **xHP**, **Bi
 > - Ułatwia zarządzanie konfiguracjami, logami i danymi diagnostycznymi  
 > - Integruje się z GitHub Actions i Dockerem w celu automatycznych aktualizacji  
 > - Idealne rozwiązanie dla deweloperów obsługujących wiele stanowisk diagnostycznych  
+
+---
+
+### 📬 Kontakt
+
+🌐 [bmcodex.pl](https://bmcodex.pl)  
+📧 kontakt@bmcodex.pl  
+📸 [Instagram – @bmcodex](https://instagram.com/bmcodex)  
 
 ---
 
