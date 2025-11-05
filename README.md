@@ -44,7 +44,7 @@ My goal is to create an ecosystem of intelligent tools that bridge the gap betwe
 
 ---
 
-## ✨ Projects I’m Proud Of
+## ✨ Latest repo
 
 ### 🛒 [BMCODEX Sklep](https://github.com/bmcodex/bmcodex-sklep)
 > **Online platform prototype** for BMCODEX products and tuning licenses.  
@@ -129,7 +129,7 @@ Specjalizuję się w integracji narzędzi takich jak **Bootmod3**, **xHP**, **Bi
 📸 [Instagram – @bmcodex](https://instagram.com/bmcodex)  
 
 ---
-## 🇵🇱 Projekty, z których jestem dumny
+## 🇵🇱 Najnowsze repo
 
 ### 🛒 [BMCODEX Sklep](https://github.com/bmcodex/bmcodex-sklep)
 > **Prototyp platformy online** dla produktów i licencji BMCODEX.  
