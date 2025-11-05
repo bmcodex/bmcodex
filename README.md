@@ -127,7 +127,7 @@ Specjalizuję się w integracji narzędzi takich jak **Bootmod3**, **xHP**, **Bi
 ### 📈 Statystyki GitHub
 
 ![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=bmcodex&show_icons=true&theme=highcontrast&hide_border=false)  
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcodex&layout=compact&theme=highcontrast&hide_border=false)
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcodex&layout=pie&theme=highcontrast&hide_border=false)
 
 ---
 
