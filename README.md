@@ -54,6 +54,15 @@ My goal is to create an ecosystem of intelligent tools that bridge the gap betwe
 
 ---
 
+### 🔄 [BMCODEX Sync](https://github.com/bmcodex/bmcodex-sync)
+> **Cross-platform synchronization and deployment tool** for BMCODEX environments.  
+> - Automates file synchronization between macOS, Linux, and Windows setups  
+> - Designed for managing configuration files, logs, and diagnostic data  
+> - Integrates with GitHub Actions and Docker for automated updates  
+> - Ideal for developers maintaining multiple diagnostic workstations  
+
+---
+
 ### 📘 [MHD, xHP, Bootmod3 & BimmerCode Tutorial Pack](https://github.com/bmcodex/mhd-xhp-bm3-bimmercode-tut)
 > **Educational repository** with structured guides and tutorials for BMW enthusiasts.  
 > - Covers setup, coding, and flashing procedures  
@@ -152,6 +161,15 @@ Specjalizuję się w integracji narzędzi takich jak **Bootmod3**, **xHP**, **Bi
 > - Odczytuje dane z plików CSV i magistrali CAN-bus  
 > - Wizualizuje przebiegi: boost, AFR, zapłon, moment obrotowy  
 > - Zgodne z formatem logów Bootmod3  
+
+---
+
+### 🔄 [BMCODEX Sync](https://github.com/bmcodex/bmcodex-sync)
+> **Narzędzie do synchronizacji i wdrażania międzyplatformowego** w środowisku BMCODEX.  
+> - Automatyzuje synchronizację plików między macOS, Linux i Windows  
+> - Ułatwia zarządzanie konfiguracjami, logami i danymi diagnostycznymi  
+> - Integruje się z GitHub Actions i Dockerem w celu automatycznych aktualizacji  
+> - Idealne rozwiązanie dla deweloperów obsługujących wiele stanowisk diagnostycznych  
 
 ---
 
