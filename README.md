@@ -39,7 +39,7 @@ My goal is to create an ecosystem of intelligent tools that bridge the gap betwe
 
 ### 📊 GitHub Stats
 
-![Michał’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bmcodex&show_icons=true&theme=react&hide_border=true)  
+![Michał’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bmcodex&show_icons=true&theme=react&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcodex&layout=compact&theme=react&hide_border=false)
 
 ---
@@ -126,8 +126,8 @@ Specjalizuję się w integracji narzędzi takich jak **Bootmod3**, **xHP**, **Bi
 
 ### 📈 Statystyki GitHub
 
-![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=bmcodex&show_icons=true&theme=react&hide_border=true)  
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcodex&layout=compact&theme=react&hide_border=true)
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=bmcodex&show_icons=true&theme=react&hide_border=false)  
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcodex&layout=compact&theme=react&hide_border=false)
 
 ---
 
