@@ -41,7 +41,7 @@ My goal is to create an ecosystem of intelligent tools that bridge the gap betwe
 
 ![Michał’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bmcodex&show_icons=true&theme=highcontrast&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcodex&layout=pie&theme=highcontrast&hide_border=true)
-
+ 
 ---
 
 ### 🌍 Connect
